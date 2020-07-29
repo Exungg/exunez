@@ -26,7 +26,7 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
-| 📧  	| kamerezz.com	|
+| 📧  	| exun.xyz	|
 | ![youtube](https://i.imgur.com/v76ZdvR.png) 	| [E X U N](https://www.youtube.com/) |
 | ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [Exun](https://www.facebook.com/)	|
 | ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [Exun](https://twitter.com//)	|
