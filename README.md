@@ -1,28 +1,25 @@
-# 🖐 Hola soy Kamerr Ezz !!
+# 🖐 Hola soy Exun !!
 
-Soy un apasionado creador de contenido audiovisual 📹 y muy fan de la programacion, lo cual puedes encontrar este perfil. Adoro crear paginas webs, tanto la parte visual como la logica detras de ella.
+Soy un apasionado creador de contenido audiovisual 📹 y muy fan de la programacion, lo cual puedes encontrar este perfil. Adoro crear bots de discord y editar videos.
 
-Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una buena persona tanto en lo personal y este mundo de la creacion audiovisual y la tecnologia.
+Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una buena persona tanto en lo personal y este mundo de la tecnologia.
 
 ## 🌱 Proyectos ..
-*   [ZeewApi](https://github.com/KamerrEzz/zeewapi) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
-*   [KamerrStudio]() - Mi Propia Marca de contenido Audiovisual y programacion.
+*   [ExunAPI](http://exun.xyz) - Una api de interacción de imágenes.
+*   [DVDTeam]() - Mi Propia Marca de contenido Audiovisual y programacion.
 
 ## 🎓 Habilidades ..
 
 |     	| 
 |:----------------------------:	|
-| 📑  Administrador de empresas 	
-| 📨 Marketing Digital	|
-|   💾 Desarrollador Web 	|   
+| 📑  Python  | 	
+| 📨 NodeJS	|
+|   💾 Html, css 	|   
 
 ## 👯 Estoy colaborando en:
-* [Th Community](https://thcommunity.xyz/)
-    * **Cargo:** CO-CEO
-    * **Descripcion:** TH Community es una Comunidad creadora de contenido en desarrollo web, aplicaciones y Multimedia. 
-* [UnderBlocks Studio]()
-    * **Cargo:** Diseñador Grafico y Desarrollador Web
-    * **Descripcion:** es un equipo enfocado en comisiones y creación de contenido para la marketplace de minecraft
+* [Nada]()
+    * **Cargo:** NADA
+    * **Descripcion:** NADA
 
 ## 📫  Redes Sociales: 
 
@@ -30,13 +27,13 @@ Actualmente estoy en unos de los proyectos mas grandes de mi vida; el ser una bu
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
 | 📧  	| kamerezz.com	|
-| ![youtube](https://i.imgur.com/v76ZdvR.png) 	|
-| ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [KamerrEzz](https://www.facebook.com/KamerrEzz)	|
-| ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [KamerrEzz](https://twitter.com/KamerrEzz/)	|
-| ![instagram](https://i.imgur.com/tu01NLm.png) 	| [KamerrEzz](https://www.instagram.com/KamerrEzz/)	|
+| ![youtube](https://i.imgur.com/v76ZdvR.png) 	| [E X U N](https://www.youtube.com/) |
+| ![facebook](https://i.imgur.com/jGWS6Ep.png) 	| [Exun](https://www.facebook.com/)	|
+| ![twitter](https://i.imgur.com/HeZ0zJn.png) 	| [Exun](https://twitter.com//)	|
+| ![instagram](https://i.imgur.com/tu01NLm.png) 	| [arriolalucass](https://www.instagram.com/arriolalucass)	|
 
 ## 💰 Donaciones:
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3YEOZ)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com)
 
 ~ Si crees que puedo mejorar esto, dimelo, me ayudarias.
